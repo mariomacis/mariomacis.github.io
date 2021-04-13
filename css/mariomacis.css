@@ -111,12 +111,18 @@ h1, h2, h3, h4, h5 {
 
 /* Helper Classes */
 
+.spacer-top-72 {
+    margin-top: 72px;
+}
 .spacer-top-36 {
     margin-top: 36px;
 }
 .spacer-top-18 {
     margin-top: 36px;
 } 
+.spacer-bottom-36 {
+    margin-bottom: 36px;
+}
 .divider-top {
     border-top: 3px var(--color-light-grey) solid;
     padding-top: 18px;
@@ -169,7 +175,15 @@ h1, h2, h3, h4, h5 {
     margin-bottom: 96px;
 }
 
+/* Teaching */
+.class {
+    margin-bottom: 48px;
+}
 
+/* Popular Press */
+.press {
+    margin-bottom: 48px;
+}
 
 
 
